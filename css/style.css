@@ -1,0 +1,45 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: Arial, sans-serif;
+}
+
+.wrap {
+    margin: 20px;
+}
+
+button, .button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover, .button:hover {
+    background-color: #555;
+}
+
+.cmp-data-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.cmp-data-table th, .cmp-data-table td {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: left;
+}
+
+.cmp-data-table th {
+    background-color: #1f1f1f;
+}
+
+.cmp-data-table tr:nth-child(even) {
+    background-color: #1e1e1e;
+}
+
+.cmp-data-container {
+    margin-top: 20px;
+}
