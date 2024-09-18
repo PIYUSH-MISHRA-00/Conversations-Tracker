@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Conversations-Tracker/static/css/main.d221dc40.css",
+    "main.js": "/Conversations-Tracker/static/js/main.f26401b1.js",
+    "index.html": "/Conversations-Tracker/index.html",
+    "main.d221dc40.css.map": "/Conversations-Tracker/static/css/main.d221dc40.css.map",
+    "main.f26401b1.js.map": "/Conversations-Tracker/static/js/main.f26401b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.f26401b1.js"
+  ]
+}
