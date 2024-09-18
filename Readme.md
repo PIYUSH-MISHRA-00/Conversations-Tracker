@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## Link to the Project :- [Link]()
+
 # Conversations-Tracker :  Super Professional Call Management Platform
 
 ## Overview
